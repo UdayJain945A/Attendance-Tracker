@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:shape="ring"
+            android:thicknessRatio="6"
+            android:useLevel="false">
+            <solid android:color="?attr/progress_background" />
+        </shape>
+    </item>
+    <item>
+        <rotate
+            android:fromDegrees="270"
+            android:toDegrees="270">
+            <shape
+                android:tint="@color/green"
+                android:shape="ring"
+                android:thicknessRatio="6"
+                android:useLevel="true">
+                <solid android:color="@color/green" />
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <shape
+            android:shape="oval"
+            android:useLevel="false">
+            <stroke android:width="15dp"
+                android:color="?attr/card_background"
+                android:dashWidth="1dp"
+                android:dashGap="2dp"/>
+        </shape>
+    </item>
+</layer-list>

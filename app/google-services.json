@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053359580297",
+    "project_id": "attendencetracker-5c630",
+    "storage_bucket": "attendencetracker-5c630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053359580297:android:8f0b2b99ae3cb40f8b1258",
+        "android_client_info": {
+          "package_name": "com.example.attendencetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053359580297-tv6b1qum1rtjqk313n9sg5a9elg8kip1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendencetracker",
+            "certificate_hash": "df0b219c14a6b917c10851f4bcb1fdf0b2a2120b"
+          }
+        },
+        {
+          "client_id": "1053359580297-jjg4b4un6ph9uemq1fm0l7s3ehnpvbcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ye4lz_37xEkCh4v7TAW7ualRNfPq7zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053359580297-jjg4b4un6ph9uemq1fm0l7s3ehnpvbcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
